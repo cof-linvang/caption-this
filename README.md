@@ -1,4 +1,4 @@
-# Test
+# Tests
 # GitHub for Developers
 
 - Class Date: THIS-DATE
